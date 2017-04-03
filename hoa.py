@@ -1,0 +1,2 @@
+def puto():
+	return "puto"
